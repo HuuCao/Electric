@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>727128016971-e26gme163ocdgs90t5g1u1mju5avj1fs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.727128016971-e26gme163ocdgs90t5g1u1mju5avj1fs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1KvUGGoI1y2Xro5rl6aVB2DWipHsQgy4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>727128016971</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.com.vnk.eetapp</string>
+	<key>PROJECT_ID</key>
+	<string>electrical-tool-f343d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>electrical-tool-f343d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:727128016971:ios:46e9e2d6403bb9229825ce</string>
+</dict>
+</plist>

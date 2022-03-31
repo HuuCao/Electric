@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "727128016971",
+    "project_id": "electrical-tool-f343d",
+    "storage_bucket": "electrical-tool-f343d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727128016971:android:e7f08a200f96f6299825ce",
+        "android_client_info": {
+          "package_name": "vn.com.vnk.eetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727128016971-rn899iovneo1f9ua3maf7h4rlaqc28e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSUsoT1epBbpGSc13iJL_tLM59Jza31AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727128016971-rn899iovneo1f9ua3maf7h4rlaqc28e1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727128016971-e26gme163ocdgs90t5g1u1mju5avj1fs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.com.vnk.eetapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
