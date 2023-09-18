@@ -22,16 +22,3 @@ app.use((error, req, res, next) => {
 app.listen(process.env.PORT || 5000, () => {
   console.log("Server API Work at Port: " + process.env.PORT );
 })
-
-var opsys = process.platform;
-if (opsys == "darwin" || opsys == "win32" || opsys == "win64") {
-  console.log("Start http on local !");
-} else {
-  var options = {
-    key: fs.readFileSync("/etc/letsencrypt/live/electric.viesoftware.net/privkey.pem"),
-    cert: fs.readFileSync("/etc/letsencrypt/live/electric.viesoftware.net/cert.pem"),
-    ca: fs.readFileSync("/etc/letsencrypt/live/electric.viesoftware.net/chain.pem"),
-  };
-
-  HTTPS.createServer(options, app).listen(5002);
-}
